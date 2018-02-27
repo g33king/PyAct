@@ -10,7 +10,8 @@ every object has 6 features:
 4. width - the width of this object.
 5. height - the height of this object.
 6. texture - how the object will look.
-More information in the file "how it's work"
+
+More information in the file "how it's work.md"(how its work.md).
 
 # I want to help you!
 thank you!
