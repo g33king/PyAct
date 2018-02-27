@@ -16,6 +16,8 @@ class ActBlock:
     self.width = width
     self.height = height
     self.tex = tex
+  def setFunc(self, function):
+    self.func = function
 
 class ActWindow:
   def __init__(self, x, y, width, height):
