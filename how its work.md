@@ -6,4 +6,10 @@ every object has 6 features:
 3. y - the location in the y axis of the window (in the screen with the case of window).
 4. width - the width of this object.
 5. height - the height of this object.
-6. texture - how the object will look. More information in the file "how it's work"
+6. texture - how the object will look.
+
+Calling a class will look like this: `objName = ActObjType(main, 50, 50, 3500, 2500, "image.png"{, objName'sFunction()})`
+
+# Windows
+creating a window:
+`winName = ActWindow(0, 0, 200, 200)`
