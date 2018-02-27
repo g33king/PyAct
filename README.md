@@ -11,7 +11,7 @@ every object has 6 features:
 5. height - the height of this object.
 6. texture - how the object will look.
 
-More information in the file "how it's work.md"(https://github.com/g33king/PyAct/blob/master/how%20its%20work.md).
+More information in the file ["how it's work.md"](https://github.com/g33king/PyAct/blob/master/how%20its%20work.md).
 
 # I want to help you!
 thank you!
