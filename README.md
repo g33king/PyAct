@@ -8,7 +8,7 @@ every object has 5 features:
 2. y - the location in the y axis of the window (in the screen with the case of window).
 3. width - the width of this object.
 4. height - the height of this object.
-5. function (optionally) - the base function for what happens to this object. running always.
+5. texture - how the object will look.
 More information in the file "how it's work"
 
 # I want to help you!
